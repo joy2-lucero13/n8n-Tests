@@ -1,4 +1,4 @@
-# rag-app_n8n-qdrant
+# n8n Tests
 ## RAG App Powered by n8n, LLM &amp; Qdrant
 
 Designed and deployed an end-to-end Retrieval-Augmented Generation (RAG) agent in n8n ⚡. The system enables users to upload custom documents, auto-indexes them into a high-performance vector store (Qdrant), and uses an AI Agent to deliver grounded, accurate answers for support, research, and internal QA. With deduped of ingested documents and prompt injection attack resistance
